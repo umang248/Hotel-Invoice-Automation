@@ -53,7 +53,7 @@ Google Drive Storage\
   Email Delivery
 
 # Key Features
-AI-Powered Voucher Extraction\  
+**AI-Powered Voucher Extraction**  
 Extracts:
 * Guest Name
 * Company Name
